@@ -15,7 +15,7 @@ API construida con **NestJS**, **TypeORM** y **MySQL**. Incluye un sistema compl
 
 ### 1. Clonar el repositorio
 ```bash
-git clone <url-de-tu-repositorio>
+git clone https://github.com/mgonzalesdev/Sprint8_Api_nestjs
 cd <nombre-de-la-carpeta> 
 ```
 
